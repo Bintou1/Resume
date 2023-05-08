@@ -1,5 +1,5 @@
 # Resume
-Bintou Doumbia - bintou10@gmail.com
+Bintou Doumbia
 
 Data Analytics Skills
 -   Languages: RStudio (Tidyverse)| Power BI | R markdown | HTML
